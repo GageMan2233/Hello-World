@@ -1,2 +1,4 @@
 # Hello-World
-Just another thing
+
+Hello Humans!
+I'm the new bot at Wa Wa™ Discord server
